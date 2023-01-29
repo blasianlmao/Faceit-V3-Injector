@@ -1,0 +1,9 @@
+﻿  driver.cpp
+  main.cpp
+  manualmap.cpp
+  target.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 600 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  face_injector_v3.vcxproj -> C:\Users\blasian\Downloads\Face-Injector-V3-main\Face-Injector-V3-main\x64\Release\face_injector_v3.exe
